@@ -1,0 +1,21 @@
+Taxi-1is Allocated
+Taxi-2is Allocated
+Taxi-2is Allocated
+Taxi-3is Allocated
+
+Taxi-1   Earnings200
+BookingID   Cus-Id   From    To    PickupTime    DropTime   Charge
+ 1             1      A      B       9            10          200
+
+Taxi-2   Earnings550
+BookingID   Cus-Id   From    To    PickupTime    DropTime   Charge
+ 2             2      B      D       9            11          350
+
+ 3             3      D      C       12            13          200
+
+Taxi-3   Earnings500
+BookingID   Cus-Id   From    To    PickupTime    DropTime   Charge
+ 4             4      A      D       9            12          500
+
+Taxi-4   Earnings0
+BookingID   Cus-Id   From    To    PickupTime    DropTime   Charge
